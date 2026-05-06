@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Danail Krzhalovski
+# Hi there! 👋 I'm Danail (Dado) Krzhalovski
 
 **Senior Data Scientist | Software Engineer | Cloud Architect**  
 📍 Belgrade, Serbia
@@ -72,9 +72,7 @@ Outside of my day job, I love building developer tools, automation scripts, and 
   <a href="mailto:dkrzhalovski@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- Uncomment and add your LinkedIn if you have one!
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
+  <a href="https://linkedin.com/in/krzhalovski">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  -->
 </p>
